@@ -89,7 +89,3 @@ for i in range(10):
 #wget.download(url_down)
     # resp = requests.get(url_down)
     # if resp.status_code == 404:
-
-
-#url="https://ghproxy.com/https://github.com/xuhuisheng/lemon/archive/refs/heads/master.zip"
-#wget.download(url)
